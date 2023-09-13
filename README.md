@@ -5,10 +5,10 @@
 <br><br> I hope you enjoy my showcase here on Github</p>&nbsp;
 
 <a href="https://github.com/Dev-JeanCharles/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-JeanCharles&theme=dracula" />
+&nbsp; <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-JeanCharles&theme=dracula" />
 </a>
 <a href="https://github.com/Dev-JeanCharles/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-JeanCharles&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+&nbsp; <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-JeanCharles&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
  
  &nbsp;
