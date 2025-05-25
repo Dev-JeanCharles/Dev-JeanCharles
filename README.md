@@ -17,7 +17,7 @@
 ## My Skills
 
 #### Main Stack:
-<code><img height="40" src="https://banner2.cleanpng.com/20180426/kbw/kisspng-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-5ae2595f709d26.2774016315247834554613.jpg"></code>
+<code><img height="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png"></code>
 <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/64546?s=280&v=4"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1024px-Groovy-logo.svg.png"></code>
